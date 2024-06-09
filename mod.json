@@ -3,8 +3,7 @@
 	"version": "v1.6.0",
 	"gd": {
 		"win": "*",
-		"android": "*",
-		"mac": "2.200"
+		"android": "*"
 	},
 	"id": "geode.devtools",
 	"name": "DevTools",
